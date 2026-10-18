@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "assets": [
+    {
+      "name": "uosc",
+      "version": "5.13.0",
+      "url": "https://github.com/tomasklaen/uosc/releases/download/5.13.0/uosc.zip",
+      "kind": "zip",
+      "sha256": "4be9da3289285300fa374496c3f1bfd7bb20ac08e890d25bd5a06b28eebe4882"
+    },
+    {
+      "name": "thumbfast",
+      "version": "0f711de3138c9bd6718209d819ac54022c23ded2",
+      "url": "https://raw.githubusercontent.com/po5/thumbfast/0f711de3138c9bd6718209d819ac54022c23ded2/thumbfast.lua",
+      "dest": "scripts/thumbfast.lua",
+      "kind": "file",
+      "sha256": "a3d08e71eae8b892f6cd39f9593ea219768e709312d176bca883841b156448bf"
+    },
+    {
+      "name": "thumbfast",
+      "version": "0f711de3138c9bd6718209d819ac54022c23ded2",
+      "url": "https://raw.githubusercontent.com/po5/thumbfast/0f711de3138c9bd6718209d819ac54022c23ded2/LICENSE",
+      "dest": "licenses/thumbfast.txt",
+      "kind": "file",
+      "sha256": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04"
+    },
+    {
+      "name": "Anime4K",
+      "version": "7684e9586f8dcc738af08a1cdceb024cc184f426",
+      "url": "https://raw.githubusercontent.com/bloc97/Anime4K/7684e9586f8dcc738af08a1cdceb024cc184f426/glsl/Restore/Anime4K_Clamp_Highlights.glsl",
+      "dest": "shaders/Anime4K_Clamp_Highlights.glsl",
+      "kind": "file",
+      "sha256": "a2a9bf7fbc1d75d09660ca2e701e4d7fb0cf5457b94da47e1825032fa2b3671a"
+    },
+    {
+      "name": "Anime4K",
+      "version": "7684e9586f8dcc738af08a1cdceb024cc184f426",
+      "url": "https://raw.githubusercontent.com/bloc97/Anime4K/7684e9586f8dcc738af08a1cdceb024cc184f426/glsl/Restore/Anime4K_Restore_CNN_M.glsl",
+      "dest": "shaders/Anime4K_Restore_CNN_M.glsl",
+      "kind": "file",
+      "sha256": "67ea3ed26539e8de3b7d307688535d2ff17e8d147e11dda0247da7770dbecf41"
+    },
+    {
+      "name": "Anime4K",
+      "version": "7684e9586f8dcc738af08a1cdceb024cc184f426",
+      "url": "https://raw.githubusercontent.com/bloc97/Anime4K/7684e9586f8dcc738af08a1cdceb024cc184f426/glsl/Upscale/Anime4K_Upscale_CNN_x2_M.glsl",
+      "dest": "shaders/Anime4K_Upscale_CNN_x2_M.glsl",
+      "kind": "file",
+      "sha256": "716e02098a68f0d648761f2b96b4dd139e1cb09b174bb369fca3aa34328fff7e"
+    },
+    {
+      "name": "Anime4K",
+      "version": "7684e9586f8dcc738af08a1cdceb024cc184f426",
+      "url": "https://raw.githubusercontent.com/bloc97/Anime4K/7684e9586f8dcc738af08a1cdceb024cc184f426/glsl/Upscale/Anime4K_AutoDownscalePre_x2.glsl",
+      "dest": "shaders/Anime4K_AutoDownscalePre_x2.glsl",
+      "kind": "file",
+      "sha256": "8c58291740146bd766a4d73f132775a797fe80f7d07919b5d767e27a5dc85656"
+    },
+    {
+      "name": "Anime4K",
+      "version": "7684e9586f8dcc738af08a1cdceb024cc184f426",
+      "url": "https://raw.githubusercontent.com/bloc97/Anime4K/7684e9586f8dcc738af08a1cdceb024cc184f426/glsl/Upscale/Anime4K_AutoDownscalePre_x4.glsl",
+      "dest": "shaders/Anime4K_AutoDownscalePre_x4.glsl",
+      "kind": "file",
+      "sha256": "5af62d8cd844916dc1126613e13bad3beab195787f93a71200b47c6ec78f2e41"
+    },
+    {
+      "name": "bloc97/Anime4K",
+      "version": "7684e9586f8dcc738af08a1cdceb024cc184f426",
+      "url": "https://raw.githubusercontent.com/bloc97/Anime4K/7684e9586f8dcc738af08a1cdceb024cc184f426/LICENSE",
+      "dest": "licenses/Anime4K.txt",
+      "kind": "file",
+      "sha256": "5bad448b737378e3d0c977ad0d0521fa37ad279a7e76ea9a31d9257eeb6953f5"
+    },
+    {
+      "name": "tomasklaen/uosc",
+      "version": "5.13.0",
+      "url": "https://raw.githubusercontent.com/tomasklaen/uosc/5.13.0/LICENSE.LGPL",
+      "dest": "licenses/uosc.txt",
+      "kind": "file",
+      "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551"
+    }
+  ]
+}

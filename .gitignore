@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.cache/
+runtime/
+*.log
+*.sock
+*.mp4
+*.mkv
+*.png
+.env
