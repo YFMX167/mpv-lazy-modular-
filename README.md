@@ -2,7 +2,7 @@
 
 适用于 **Fedora 44 / KDE Wayland / AMD RX 9070 XT / LG C4 42 英寸 OLED** 的独立 mpv 配置项目。
 默认电影原画模式，提供 uosc、thumbfast、Anime4K 动漫增强、HDR 输出及 HDR 转 SDR profiles。
-项目代码采用 MIT；当前仓库为私人仓库，尚未向公众公开。
+项目代码采用 MIT；
 
 ## 快速开始
 
